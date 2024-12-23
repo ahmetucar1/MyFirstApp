@@ -6,7 +6,8 @@
     {
         static void Main(String[]args)
         {
-            Console.WriteLine("Ahmet Uçar, Patika Bootcampinde olmamın sebebi yazılımcı olup, kariyerime ilk adımı güvenle atmak.");
+            Console.WriteLine("Ahmet Uçar.");
+            Console.WriteLine("Patika Bootcampinde olmamın sebebi yazılımcı olup, kariyerime ilk adımı güvenle atmak.")
         }
     }
  }
